@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello, my name is Cameron Lee, but I prefer Cam for short.<br><br>I graduated from Purdue University in May of 2024 with a degree in Computer Engineering.<br><br>I'm currently seeking a full-time position in Software Engineering.<br><br>All my projects are inspired by my hobbies and interests which motivate me to produce a product.<br><br>I recently learned front and back end development where I utilized HTML, CSS, React, Python, Flask, and MySQL.<br><br>Using these skills, I was able to create a web application as well as a discord bot that ultimately displays League of Legends data and statistics.<br><br>I'm currently learning Machine Learning and Artificial Intelligence since of its rise and potential in the future.<br><br>The project I'm currently working on is a chatbot that will predict the best winning strategies in League of Legends (Item and Rune Sets) based what character the user is playing and what opponents he is going against.
 
-Please contact me through my email: cameronwlee3@gmail.com
+Best reached through email: cameronwlee3@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cameron-lee-57a6561a9/) 
